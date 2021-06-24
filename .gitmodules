@@ -1,0 +1,6 @@
+[submodule "cmtp-rtc-mern-back"]
+	path = cmtp-rtc-mern-back
+	url = http://github.com/thecaleblee/cmtp-rtc-mern-back.git
+[submodule "cmtp-rtc-mern-front"]
+	path = cmtp-rtc-mern-front
+	url = http://github.com/thecaleblee/cmtp-rtc-mern-front.git
